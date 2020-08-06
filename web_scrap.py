@@ -24,4 +24,3 @@ class WebScrap:
 
 # res = requests.get("https://www.moneycontrol.com/india/stockpricequote/refineries/relianceindustries/RI")
 # temp_strp = res.text
-# print(temp_strp)
